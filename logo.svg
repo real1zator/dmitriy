@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 60">
+  <defs>
+    <linearGradient id="g1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#1a5c2e"/>
+      <stop offset="100%" style="stop-color:#2d7a47"/>
+    </linearGradient>
+  </defs>
+  <rect width="220" height="60" fill="none"/>
+  <rect x="2" y="8" width="44" height="44" rx="8" fill="url(#g1)"/>
+  <text x="24" y="36" font-family="Arial Black,sans-serif" font-size="18"
+        font-weight="900" fill="white" text-anchor="middle">Д</text>
+  <text x="54" y="26" font-family="Arial,sans-serif" font-size="13"
+        font-weight="700" fill="#1a5c2e">Дмитрий</text>
+  <text x="54" y="44" font-family="Arial,sans-serif" font-size="11"
+        fill="#555">Грузоперевозки</text>
+</svg>
